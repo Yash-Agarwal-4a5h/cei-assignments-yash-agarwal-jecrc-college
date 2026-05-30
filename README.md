@@ -42,11 +42,11 @@ This repository includes:
 cei-assignments-yash-agarwal-jecrc/
 │
 ├── week1/
-│   ├── week1_Yash.ipynb
+│   ├── week1_yash_agarwal.ipynb
 │   └── outputs/
 │
 ├── week2/
-│   ├── week2_Yash.ipynb
+│   ├── week2_yash_agarwal.ipynb
 │   └── outputs/
 │
 ├── week3/
